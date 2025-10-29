@@ -1,0 +1,53 @@
+[29-Oct-2025 08:25:22 UTC] PHP Warning:  file_get_contents(fragen.json): Failed to open stream: No such file or directory in /opt/code/wer-wird-millionaer.php on line 3
+[29-Oct-2025 08:25:22 UTC] PHP Warning:  Trying to access array offset on null in /opt/code/wer-wird-millionaer.php on line 3
+[29-Oct-2025 08:25:22 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in /opt/code/wer-wird-millionaer.php:5
+Stack trace:
+#0 /opt/code/wer-wird-millionaer.php(5): usort(NULL, Object(Closure))
+#1 {main}
+  thrown in /opt/code/wer-wird-millionaer.php on line 5
+[29-Oct-2025 08:26:14 UTC] PHP Warning:  file_get_contents(fragen.json): Failed to open stream: No such file or directory in /opt/code/wer-wird-millionaer.php on line 3
+[29-Oct-2025 08:26:14 UTC] PHP Warning:  Trying to access array offset on null in /opt/code/wer-wird-millionaer.php on line 3
+[29-Oct-2025 08:26:14 UTC] PHP Fatal error:  Uncaught TypeError: usort(): Argument #1 ($array) must be of type array, null given in /opt/code/wer-wird-millionaer.php:5
+Stack trace:
+#0 /opt/code/wer-wird-millionaer.php(5): usort(NULL, Object(Closure))
+#1 {main}
+  thrown in /opt/code/wer-wird-millionaer.php on line 5
+[29-Oct-2025 08:28:32 UTC] PHP Fatal error:  Uncaught PHP_CodeSniffer\Exceptions\RuntimeException: Decrement on type bool has no effect, this will change in the next major version of PHP in phar:///usr/local/bin/phpcbf/src/Standards/Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php on line 3 in phar:///usr/local/bin/phpcbf/src/Runner.php:3
+Stack trace:
+#0 phar:///usr/local/bin/phpcbf/src/Standards/Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php(3): PHP_CodeSniffer\Runner->handleErrors(2, 'Decrement on ty...', 'phar:///usr/loc...', 3)
+#1 phar:///usr/local/bin/phpcbf/src/Files/File.php(3): PHP_CodeSniffer\Standards\Generic\Sniffs\WhiteSpace\ScopeIndentSniff->process(Object(PHP_CodeSniffer\Files\LocalFile), 0)
+#2 phar:///usr/local/bin/phpcbf/src/Files/LocalFile.php(3): PHP_CodeSniffer\Files\File->process()
+#3 phar:///usr/local/bin/phpcbf/src/Fixer.php(3): PHP_CodeSniffer\Files\LocalFile->process()
+#4 phar:///usr/local/bin/phpcbf/src/Reports/Cbf.php(3): PHP_CodeSniffer\Fixer->fixFile()
+#5 phar:///usr/local/bin/phpcbf/src/Reporter.php(3): PHP_CodeSniffer\Reports\Cbf->generateFileReport(Array, Object(PHP_CodeSniffer\Files\LocalFile), false, 120)
+#6 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Reporter->cacheFileReport(Object(PHP_CodeSniffer\Files\LocalFile), Object(PHP_CodeSniffer\Config))
+#7 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Runner->processFile(Object(PHP_CodeSniffer\Files\LocalFile))
+#8 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Runner->run()
+#9 /usr/local/bin/phpcbf(6): PHP_CodeSniffer\Runner->runPHPCBF()
+#10 {main}
+  thrown in phar:///usr/local/bin/phpcbf/src/Runner.php on line 3
+[29-Oct-2025 08:29:51 UTC] PHP Fatal error:  Uncaught PHP_CodeSniffer\Exceptions\RuntimeException: Decrement on type bool has no effect, this will change in the next major version of PHP in phar:///usr/local/bin/phpcbf/src/Standards/Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php on line 3 in phar:///usr/local/bin/phpcbf/src/Runner.php:3
+Stack trace:
+#0 phar:///usr/local/bin/phpcbf/src/Standards/Generic/Sniffs/WhiteSpace/ScopeIndentSniff.php(3): PHP_CodeSniffer\Runner->handleErrors(2, 'Decrement on ty...', 'phar:///usr/loc...', 3)
+#1 phar:///usr/local/bin/phpcbf/src/Files/File.php(3): PHP_CodeSniffer\Standards\Generic\Sniffs\WhiteSpace\ScopeIndentSniff->process(Object(PHP_CodeSniffer\Files\LocalFile), 0)
+#2 phar:///usr/local/bin/phpcbf/src/Files/LocalFile.php(3): PHP_CodeSniffer\Files\File->process()
+#3 phar:///usr/local/bin/phpcbf/src/Fixer.php(3): PHP_CodeSniffer\Files\LocalFile->process()
+#4 phar:///usr/local/bin/phpcbf/src/Reports/Cbf.php(3): PHP_CodeSniffer\Fixer->fixFile()
+#5 phar:///usr/local/bin/phpcbf/src/Reporter.php(3): PHP_CodeSniffer\Reports\Cbf->generateFileReport(Array, Object(PHP_CodeSniffer\Files\LocalFile), false, 120)
+#6 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Reporter->cacheFileReport(Object(PHP_CodeSniffer\Files\LocalFile), Object(PHP_CodeSniffer\Config))
+#7 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Runner->processFile(Object(PHP_CodeSniffer\Files\LocalFile))
+#8 phar:///usr/local/bin/phpcbf/src/Runner.php(3): PHP_CodeSniffer\Runner->run()
+#9 /usr/local/bin/phpcbf(6): PHP_CodeSniffer\Runner->runPHPCBF()
+#10 {main}
+  thrown in phar:///usr/local/bin/phpcbf/src/Runner.php on line 3
+[29-Oct-2025 08:31:35 UTC] PHP Parse error:  syntax error, unexpected identifier "Enter", expecting ")" in /opt/code/wer-wird-millionaer.php on line 4
+[29-Oct-2025 08:40:47 UTC] PHP Parse error:  syntax error, unexpected variable "$press", expecting "," or ";" in /opt/code/wer-wird-millionaer.php on line 9
+[29-Oct-2025 09:11:03 UTC] PHP Warning:  file_get_contents(fragen.json): Failed to open stream: No such file or directory in /opt/code/wer-wird-millionaer.php on line 9
+[29-Oct-2025 09:11:03 UTC] PHP Warning:  Trying to access array offset on null in /opt/code/wer-wird-millionaer.php on line 10
+[29-Oct-2025 09:11:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /opt/code/wer-wird-millionaer.php on line 38
+[29-Oct-2025 09:22:52 UTC] PHP Warning:  Undefined variable $sicherheitsfragen in /opt/code/wer-wird-millionaer.php on line 55
+[29-Oct-2025 09:22:52 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /opt/code/wer-wird-millionaer.php:55
+Stack trace:
+#0 /opt/code/wer-wird-millionaer.php(55): in_array('50\xE2\x82\xAC', NULL)
+#1 {main}
+  thrown in /opt/code/wer-wird-millionaer.php on line 55

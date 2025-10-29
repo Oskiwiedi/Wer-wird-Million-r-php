@@ -1,0 +1,499 @@
+{
+  "fragen": [
+    {
+      "stufe": "50 CHF",
+      "frage": "Welche Farbe entsteht, wenn man Cyan und Gelb in der subtraktiven Farbmischung kombiniert?",
+      "antworten": {
+        "A": "Grün",
+        "B": "Rot",
+        "C": "Blau",
+        "D": "Magenta"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "50 CHF",
+      "frage": "Wie viele Beine hat eine Vogelspinne insgesamt, wenn man die Pedipalpen mitzählt?",
+      "antworten": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "richtigeAntwort": "B"
+    },
+    {
+      "stufe": "50 CHF",
+      "frage": "Wie lange dauert ein Sonnentag auf der Erde im Durchschnitt?",
+      "antworten": {
+        "A": "23 Stunden 56 Minuten",
+        "B": "24 Stunden exakt",
+        "C": "24 Stunden 10 Minuten",
+        "D": "23 Stunden 45 Minuten"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "100 CHF",
+      "frage": "Wie oft tritt ein Schaltjahr im gregorianischen Kalender in 400 Jahren tatsächlich auf?",
+      "antworten": {
+        "A": "97 Mal",
+        "B": "100 Mal",
+        "C": "99 Mal",
+        "D": "96 Mal"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "100 CHF",
+      "frage": "In welcher Stadt befindet sich der Vatikanstaat vollständig?",
+      "antworten": {
+        "A": "Rom",
+        "B": "Neapel",
+        "C": "Florenz",
+        "D": "Mailand"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "100 CHF",
+      "frage": "Wie nennt man ein weibliches junges Pferd spezifisch?",
+      "antworten": {
+        "A": "Stutfohlen",
+        "B": "Hengstfohlen",
+        "C": "Kalb",
+        "D": "Jährling"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "200 CHF",
+      "frage": "Welches Tier kann schnurren, aber nicht bellen?",
+      "antworten": {
+        "A": "Katze",
+        "B": "Hund",
+        "C": "Fuchs",
+        "D": "Wolf"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "200 CHF",
+      "frage": "Welches Säugetier legt tatsächlich Eier?",
+      "antworten": {
+        "A": "Schnabeltier",
+        "B": "Igel",
+        "C": "Fledermaus",
+        "D": "Maulwurf"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "200 CHF",
+      "frage": "Wie nennt man die Nachkommen eines Hundes biologisch korrekt?",
+      "antworten": {
+        "A": "Canis lupus familiaris juveniles",
+        "B": "Fohlen",
+        "C": "Kätzchen",
+        "D": "Kälber"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "300 CHF",
+      "frage": "Wie viele Diagonalen besitzt ein regelmäßiges Fünfeck?",
+      "antworten": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "15"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "300 CHF",
+      "frage": "Welche Farbe entsteht in der additiven Farbmischung aus Rot und Blau?",
+      "antworten": {
+        "A": "Magenta",
+        "B": "Violett",
+        "C": "Purpur",
+        "D": "Cyan"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "300 CHF",
+      "frage": "Wie viele Kontinente werden geologisch betrachtet unterschieden?",
+      "antworten": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "5"
+      },
+      "richtigeAntwort": "C"
+    },
+    {
+      "stufe": "500 CHF",
+      "frage": "Welcher Planet rotiert in entgegengesetzter Richtung zu den meisten anderen?",
+      "antworten": {
+        "A": "Venus",
+        "B": "Merkur",
+        "C": "Uranus",
+        "D": "Neptun"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "500 CHF",
+      "frage": "Wie viele Planeten werden nach der IAU-Definition heute offiziell im Sonnensystem anerkannt?",
+      "antworten": {
+        "A": "8",
+        "B": "9",
+        "C": "10",
+        "D": "7"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "500 CHF",
+      "frage": "Wie viele Sekunden hat eine Stunde?",
+      "antworten": {
+        "A": "3.600",
+        "B": "6.000",
+        "C": "60",
+        "D": "36.000"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000 CHF",
+      "frage": "Welches Bundesland Deutschlands ist flächenmäßig das größte?",
+      "antworten": {
+        "A": "Bayern",
+        "B": "Niedersachsen",
+        "C": "Brandenburg",
+        "D": "Sachsen-Anhalt"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000 CHF",
+      "frage": "Welche Stadt ist de jure die Bundesstadt der Schweiz?",
+      "antworten": {
+        "A": "Bern",
+        "B": "Zürich",
+        "C": "Basel",
+        "D": "Luzern"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000 CHF",
+      "frage": "Welches Meer trennt Italien von Kroatien?",
+      "antworten": {
+        "A": "Adria",
+        "B": "Ionisches Meer",
+        "C": "Ägäis",
+        "D": "Tyrrhenisches Meer"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "2.000 CHF",
+      "frage": "Welches chemische Symbol steht für das Alkalimetall Natrium?",
+      "antworten": {
+        "A": "Na",
+        "B": "Ne",
+        "C": "Ni",
+        "D": "Nb"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "2.000 CHF",
+      "frage": "Welches Edelmetall trägt das chemische Symbol 'Au'?",
+      "antworten": {
+        "A": "Gold",
+        "B": "Silber",
+        "C": "Kupfer",
+        "D": "Platin"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "2.000 CHF",
+      "frage": "Wie viele Flächen besitzt ein regulärer Würfel?",
+      "antworten": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "4.000 CHF",
+      "frage": "Welcher Dichter schrieb 'Faust' und war zugleich Naturwissenschaftler?",
+      "antworten": {
+        "A": "Johann Wolfgang von Goethe",
+        "B": "Friedrich Schiller",
+        "C": "Gotthold Ephraim Lessing",
+        "D": "Immanuel Kant"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "4.000 CHF",
+      "frage": "Welcher Künstler schuf die 'Mona Lisa' und war zugleich Erfinder?",
+      "antworten": {
+        "A": "Leonardo da Vinci",
+        "B": "Michelangelo",
+        "C": "Raffael",
+        "D": "Botticelli"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "4.000 CHF",
+      "frage": "Wie hoch ist der Eiffelturm inklusive Antenne heute ungefähr?",
+      "antworten": {
+        "A": "330 Meter",
+        "B": "300 Meter",
+        "C": "324 Meter",
+        "D": "350 Meter"
+      },
+      "richtigeAntwort": "C"
+    },
+    {
+      "stufe": "8.000 CHF",
+      "frage": "Welches Land hat die größte Fläche der Erde?",
+      "antworten": {
+        "A": "Kanada",
+        "B": "Russland",
+        "C": "China",
+        "D": "USA"
+      },
+      "richtigeAntwort": "B"
+    },
+    {
+      "stufe": "8.000 CHF",
+      "frage": "Welche Sprache wird in Brasilien offiziell gesprochen?",
+      "antworten": {
+        "A": "Portugiesisch",
+        "B": "Spanisch",
+        "C": "Englisch",
+        "D": "Französisch"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "8.000 CHF",
+      "frage": "Wie viele Mitglieder hat der Schweizer Bundesrat?",
+      "antworten": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "5"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "16.000 CHF",
+      "frage": "Welche Blutgruppe ist weltweit am seltensten?",
+      "antworten": {
+        "A": "AB-",
+        "B": "A-",
+        "C": "B-",
+        "D": "0-"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "16.000 CHF",
+      "frage": "Wie viele Zähne hat ein vollständiges menschliches Gebiss inklusive Weisheitszähne?",
+      "antworten": {
+        "A": "32",
+        "B": "28",
+        "C": "30",
+        "D": "34"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "16.000 CHF",
+      "frage": "Welche Farbe hat reines, poliertes Kupfermetall?",
+      "antworten": {
+        "A": "Rötlich",
+        "B": "Goldgelb",
+        "C": "Silber",
+        "D": "Grau"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "32.000 CHF",
+      "frage": "Welche Programmiersprache gilt als die älteste der Welt?",
+      "antworten": {
+        "A": "Fortran",
+        "B": "COBOL",
+        "C": "C",
+        "D": "BASIC"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "32.000 CHF",
+      "frage": "Wer verbesserte entscheidend die Glühbirne zur Marktreife?",
+      "antworten": {
+        "A": "Thomas Edison",
+        "B": "Nikola Tesla",
+        "C": "Joseph Swan",
+        "D": "Alexander Graham Bell"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "32.000 CHF",
+      "frage": "Wie hoch ist der Mount Everest offiziell laut neuester Vermessung (2020)?",
+      "antworten": {
+        "A": "8.848,86 m",
+        "B": "8.850 m",
+        "C": "8.840 m",
+        "D": "8.861 m"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "64.000 CHF",
+      "frage": "Welcher Fluss ist nach aktuellen Messungen der längste der Welt?",
+      "antworten": {
+        "A": "Nil",
+        "B": "Amazonas",
+        "C": "Jangtse",
+        "D": "Mississippi"
+      },
+      "richtigeAntwort": "B"
+    },
+    {
+      "stufe": "64.000 CHF",
+      "frage": "Welcher Planet besitzt das markanteste Ringsystem?",
+      "antworten": {
+        "A": "Saturn",
+        "B": "Neptun",
+        "C": "Uranus",
+        "D": "Jupiter"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "64.000 CHF",
+      "frage": "Wie heißt die Hauptstadt Kanadas?",
+      "antworten": {
+        "A": "Ottawa",
+        "B": "Toronto",
+        "C": "Montreal",
+        "D": "Vancouver"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "125.000 CHF",
+      "frage": "Wie viele Nullen hat eine Milliarde im europäischen Zahlensystem?",
+      "antworten": {
+        "A": "9",
+        "B": "12",
+        "C": "6",
+        "D": "8"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "125.000 CHF",
+      "frage": "In welchem Jahr betrat Neil Armstrong den Mond?",
+      "antworten": {
+        "A": "1969",
+        "B": "1971",
+        "C": "1968",
+        "D": "1973"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "125.000 CHF",
+      "frage": "Welche antike Stadt wurde als 'Ewige Stadt' bezeichnet?",
+      "antworten": {
+        "A": "Rom",
+        "B": "Athen",
+        "C": "Jerusalem",
+        "D": "Karthago"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "500.000 CHF",
+      "frage": "Welches chemische Symbol steht für das Element Wolfram?",
+      "antworten": {
+        "A": "W",
+        "B": "Wo",
+        "C": "Wt",
+        "D": "Wf"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "500.000 CHF",
+      "frage": "Welches Land ist das kleinste der Erde – sowohl nach Fläche als auch Bevölkerung?",
+      "antworten": {
+        "A": "Vatikanstadt",
+        "B": "Monaco",
+        "C": "Liechtenstein",
+        "D": "San Marino"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "500.000 CHF",
+      "frage": "Welches Tier ist das größte heute lebende Landsäugetier?",
+      "antworten": {
+        "A": "Afrikanischer Elefant",
+        "B": "Asiatischer Elefant",
+        "C": "Giraffe",
+        "D": "Nashorn"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000.000 CHF",
+      "frage": "Wer formulierte die spezielle und allgemeine Relativitätstheorie?",
+      "antworten": {
+        "A": "Albert Einstein",
+        "B": "Isaac Newton",
+        "C": "Niels Bohr",
+        "D": "Max Planck"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000.000 CHF",
+      "frage": "Wie heißt das größte Korallenriffsystem der Erde?",
+      "antworten": {
+        "A": "Great Barrier Reef",
+        "B": "Belize Barrier Reef",
+        "C": "Red Sea Reef",
+        "D": "Maldives Reef"
+      },
+      "richtigeAntwort": "A"
+    },
+    {
+      "stufe": "1.000.000 CHF",
+      "frage": "Wie viele Planeten umfasste das Sonnensystem bis zur Aberkennung Plutos im Jahr 2006?",
+      "antworten": {
+        "A": "9",
+        "B": "8",
+        "C": "10",
+        "D": "7"
+      },
+      "richtigeAntwort": "A"
+    }
+  ]
+}
